@@ -1,7 +1,0 @@
-I:\LLD\LoggerSingltonMultithread\LoggerSingltonMultithread\bin\Debug\LoggerSingltonMultithread.exe.config
-I:\LLD\LoggerSingltonMultithread\LoggerSingltonMultithread\bin\Debug\LoggerSingltonMultithread.exe
-I:\LLD\LoggerSingltonMultithread\LoggerSingltonMultithread\bin\Debug\LoggerSingltonMultithread.pdb
-I:\LLD\LoggerSingltonMultithread\LoggerSingltonMultithread\obj\Debug\LoggerSingltonMultithread.csproj.AssemblyReference.cache
-I:\LLD\LoggerSingltonMultithread\LoggerSingltonMultithread\obj\Debug\LoggerSingltonMultithread.csproj.CoreCompileInputs.cache
-I:\LLD\LoggerSingltonMultithread\LoggerSingltonMultithread\obj\Debug\LoggerSingltonMultithread.exe
-I:\LLD\LoggerSingltonMultithread\LoggerSingltonMultithread\obj\Debug\LoggerSingltonMultithread.pdb

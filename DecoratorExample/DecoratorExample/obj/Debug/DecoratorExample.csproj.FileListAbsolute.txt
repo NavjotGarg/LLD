@@ -1,7 +1,0 @@
-I:\LLD\DecoratorExample\DecoratorExample\bin\Debug\DecoratorExample.exe.config
-I:\LLD\DecoratorExample\DecoratorExample\bin\Debug\DecoratorExample.exe
-I:\LLD\DecoratorExample\DecoratorExample\bin\Debug\DecoratorExample.pdb
-I:\LLD\DecoratorExample\DecoratorExample\obj\Debug\DecoratorExample.csproj.AssemblyReference.cache
-I:\LLD\DecoratorExample\DecoratorExample\obj\Debug\DecoratorExample.csproj.CoreCompileInputs.cache
-I:\LLD\DecoratorExample\DecoratorExample\obj\Debug\DecoratorExample.exe
-I:\LLD\DecoratorExample\DecoratorExample\obj\Debug\DecoratorExample.pdb

@@ -1,7 +1,0 @@
-I:\LLD\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\AbstractFactoryExample.exe.config
-I:\LLD\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\AbstractFactoryExample.exe
-I:\LLD\AbstractFactoryExample\AbstractFactoryExample\bin\Debug\AbstractFactoryExample.pdb
-I:\LLD\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\AbstractFactoryExample.csproj.AssemblyReference.cache
-I:\LLD\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\AbstractFactoryExample.csproj.CoreCompileInputs.cache
-I:\LLD\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\AbstractFactoryExample.exe
-I:\LLD\AbstractFactoryExample\AbstractFactoryExample\obj\Debug\AbstractFactoryExample.pdb
