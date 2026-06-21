@@ -57,7 +57,7 @@ namespace DecoratorExample
     {
         static void Main(string[] args)
         {
-            TimestampLogger logger = new TimestampLogger(new ConsoleLogger());
+            ILogger logger = new TimestampLogger(new ConsoleLogger());
 
             logger.Log("This is a log message with a timestamp.");
         }
